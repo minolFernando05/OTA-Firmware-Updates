@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.0",
   "url": "https://minolfernando05.github.io/OTA-Firmware-Updates/firmware.bin",
   "changelog": "Changed blink delay to 1000."
 }
